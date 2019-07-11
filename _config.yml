@@ -1,1 +1,4 @@
 theme: jekyll-theme-architect
+title: Wiede.dev
+navbar-links:
+  WMATA: "wmata"
